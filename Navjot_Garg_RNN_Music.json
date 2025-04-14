@@ -1,0 +1,10 @@
+{
+  "batch_size": "20",
+  "curr_step": "999",
+  "embedding_dim": "256",
+  "f": "/root/.local/share/jupyter/runtime/kernel-ef6d2162-64bc-4ee3-9134-8e6a374261ce.json",
+  "hidden_size": "512",
+  "learning_rate": "1.0E-4",
+  "num_training_iterations": "1000",
+  "seq_length": "300"
+}
